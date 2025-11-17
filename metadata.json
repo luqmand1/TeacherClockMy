@@ -1,0 +1,8 @@
+{
+  "name": "Smart School Attendance System",
+  "description": "A modern, role-based attendance tracking system for teachers and administrators, featuring real-time updates, performance metrics, and an announcement board.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Smart School Attendance System",
+  "short_name": "Attendance",
+  "description": "A modern, role-based attendance tracking system for teachers and administrators.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sekolah_Menengah_Kebangsaan_Puchong_Utama_%281%29.png/960px-Sekolah_Menengah_Kebangsaan_Puchong_Utama_%281%29.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sekolah_Menengah_Kebangsaan_Puchong_Utama_%281%29.png/960px-Sekolah_Menengah_Kebangsaan_Puchong_Utama_%281%29.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
